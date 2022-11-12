@@ -8,3 +8,6 @@ Programmer / Developer of junior backend software with project experience small 
 ...and learning web technologies to be a full-stack programmer!
 
 <img src="./public/description.png">
+
+ ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
