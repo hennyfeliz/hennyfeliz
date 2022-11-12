@@ -9,4 +9,4 @@ Programmer / Developer of junior backend software with project experience small 
 
 <img src="./public/description.png">
 
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/hennyfeliz)
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?https://github.com/hennyfeliz)
