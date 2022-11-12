@@ -9,5 +9,4 @@ Programmer / Developer of junior backend software with project experience small 
 
 <img src="./public/description.png">
 
- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/hennyfeliz)
