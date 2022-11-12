@@ -8,5 +8,3 @@ Programmer / Developer of junior backend software with project experience small 
 ...and learning web technologies to be a full-stack programmer!
 
 <img src="./public/description.png">
-
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?https://github.com/hennyfeliz)
